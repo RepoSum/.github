@@ -1,6 +1,4 @@
-## Proyecto
-
-### CodeScope
+# CodeScope
 
 **CodeScope** es una aplicación web que analiza repositorios de código utilizando IA para generar un informe técnico que permita entender rápidamente un proyecto de software.
 
