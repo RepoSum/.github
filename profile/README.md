@@ -1,19 +1,4 @@
-# RepoSum
-
-RepoSum es una organización creada para desarrollar proyectos personales enfocados en aprendizaje real de ingeniería de software, arquitectura y calidad.
-
-El objetivo es construir aplicaciones siguiendo prácticas utilizadas en entornos profesionales:
-
-- planificación por MVPs
-- backlog estructurado
-- historias de usuario
-- testing desde el diseño
-- documentación técnica
-- desarrollo incremental
-
----
-
-## Proyecto principal
+## Proyecto
 
 ### CodeScope
 
